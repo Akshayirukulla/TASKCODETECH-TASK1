@@ -17,4 +17,5 @@ TECHNOLOGIES USED:
 .JAVA SCRIPT
 ![Screenshot 2024-06-29 202531](https://github.com/Akshayirukulla/TASKCODETECH-TASK1/assets/128984430/759a7950-42d1-437a-89e5-a747ea109479)
 ![Screenshot 2024-06-29 202729](https://github.com/Akshayirukulla/TASKCODETECH-TASK1/assets/128984430/3e98989e-d30f-4dea-a255-4c0a0e93fb95)
+![Screenshot 2024-06-29 203425](https://github.com/Akshayirukulla/TASKCODETECH-TASK1/assets/128984430/59462422-9bbb-4f0b-947f-df23fab42851)
 
